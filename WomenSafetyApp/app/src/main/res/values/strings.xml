@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WomenSafetyApp</string>
+
+    <string name="hello_world">Welcome to women saftey APP </string>
+    <string name="action_signout">Sign out</string>
+    <string name="title_activity_start_tracking">StartTrackingActivity</string>
+</resources>
